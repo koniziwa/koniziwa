@@ -1,16 +1,72 @@
-## Hi there 👋
+<h1 align="center"><strong>Hi there, I'm Dima</strong> 🐘</h1>
 
-<!--
-**koniziwa/koniziwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">Front-end (sometimes fullstack) web developer from <strong>Moscow, Russia</strong><p>
 
-Here are some ideas to get you started:
+<div align="center">
+  <a href="https://github.com/koniziwa" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" title="Codewars" alt="Codewars">
+  <a href="https://www.codewars.com/users/koniziwa" target="_blank">
+    <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" title="Codewars" alt="Codewars">
+  </a>
+  </a>
+    <a href="https://t.me/koniziwa" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" title="Telegram" alt="Telegram">
+  </a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+## ⚡️ About Me
+
+- ⌛️ In search of job ([Resume [RU]](https://drive.google.com/file/d/1RXvJiMyclZVyE-A1IlhkLE_4eDxIXp7Z/view))
+- 🏫 STEM **[HSE](https://www.hse.ru/en/)** student
+- 🌍 I'm currently learning **English**
+- ☄️Goal: find my place in life
+- 🏀 Doing sports or 📹 watching series in my free time
+
+## 💻 Tech Stack
+
+<a href="https://www.typescriptlang.org/" target="_blank">
+  <img title="Typescript" src="./assets/images/Typescript.svg" width="40px" height="40px" alt="Typescript" />
+</a>&nbsp;
+
+<a href="https://react.dev/" target="_blank">
+  <img title="React & React Native" src="./assets/images/react.svg" width="40px" height="40px" alt="React &  React Native" />
+</a>&nbsp;
+
+<a href="https://svelte.dev/" target="_blank">
+  <img title="Svelte" src="./assets/images/svelte.svg" width="40px" height="40px" alt="Svelte" />
+</a>&nbsp;
+
+<a href="https://nodejs.org/en" target="_blank">
+  <img title="Node.js" src="./assets/images/nodejs.svg" width="40px" height="40px" alt="Node.js" />
+</a>&nbsp;
+
+<a href="https://www.mongodb.com/" target="_blank">
+  <img title="MongoDB" src="./assets/images/mongodb.svg" width="40px" height="40px" alt="MongoDB" />
+</a>&nbsp;
+
+<a href="https://sass-lang.com/" target="_blank">
+  <img title="Sass" src="./assets/images/sass.svg" width="40px" height="40px" alt="Sass" />
+</a>&nbsp;
+
+<a href="https://tailwindcss.com/" target="_blank">
+  <img title="Tailwind CSS" src="./assets/images/tailwind.svg" width="40px" height="40px" alt="Tailwind CSS" />
+</a>&nbsp;
+
+<a href="https://www.figma.com/" target="_blank">
+  <img title="Figma" src="./assets/images/figma.svg" width="40px" height="40px" alt="Figma" />
+</a>&nbsp;
+
+<a href="https://git-scm.com/" target="_blank">
+  <img title="git" height="40px" src="./assets/images/git.svg" width="40px" alt="git" />
+</a>&nbsp;
+
+<a href="https://www.figma.com/" target="_blank">
+  <img title="Figma" src="./assets/images/figma.svg" width="40px" height="40px" alt="Figma" />
+</a>&nbsp;
+
+## 💗 GitHub's Statistics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=koniziwa&theme=blue-green" alt="Most used languages" title="Most used languages" />
+</div>
