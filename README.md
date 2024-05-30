@@ -12,7 +12,6 @@
     <a href="https://t.me/koniziwa" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" title="Telegram" alt="Telegram">
   </a>
-
 </div>
 
 ## ⚡️ About Me
@@ -26,43 +25,31 @@
 ## 💻 Tech Stack
 
 <a href="https://www.typescriptlang.org/" target="_blank">
-  <img title="Typescript" src="./assets/images/Typescript.svg" width="40px" height="40px" alt="Typescript" />
+  <img title="Typescript" src="./assets/images/typescript.svg" width="40px" height="40px" alt="Typescript" />
 </a>&nbsp;
-
-<a href="https://react.dev/" target="_blank">
+<a href="https://react.dev/">
   <img title="React & React Native" src="./assets/images/react.svg" width="40px" height="40px" alt="React &  React Native" />
 </a>&nbsp;
-
-<a href="https://svelte.dev/" target="_blank">
+<a href="https://svelte.dev/">
   <img title="Svelte" src="./assets/images/svelte.svg" width="40px" height="40px" alt="Svelte" />
 </a>&nbsp;
-
-<a href="https://nodejs.org/en" target="_blank">
+<a href="https://nodejs.org/en">
   <img title="Node.js" src="./assets/images/nodejs.svg" width="40px" height="40px" alt="Node.js" />
 </a>&nbsp;
-
-<a href="https://www.mongodb.com/" target="_blank">
+<a href="https://www.mongodb.com/">
   <img title="MongoDB" src="./assets/images/mongodb.svg" width="40px" height="40px" alt="MongoDB" />
 </a>&nbsp;
-
-<a href="https://sass-lang.com/" target="_blank">
+<a href="https://sass-lang.com/">
   <img title="Sass" src="./assets/images/sass.svg" width="40px" height="40px" alt="Sass" />
 </a>&nbsp;
-
-<a href="https://tailwindcss.com/" target="_blank">
+<a href="https://tailwindcss.com/">
   <img title="Tailwind CSS" src="./assets/images/tailwind.svg" width="40px" height="40px" alt="Tailwind CSS" />
 </a>&nbsp;
-
-<a href="https://www.figma.com/" target="_blank">
+<a href="https://www.figma.com/">
   <img title="Figma" src="./assets/images/figma.svg" width="40px" height="40px" alt="Figma" />
 </a>&nbsp;
-
-<a href="https://git-scm.com/" target="_blank">
+<a href="https://git-scm.com/">
   <img title="git" height="40px" src="./assets/images/git.svg" width="40px" alt="git" />
-</a>&nbsp;
-
-<a href="https://www.figma.com/" target="_blank">
-  <img title="Figma" src="./assets/images/figma.svg" width="40px" height="40px" alt="Figma" />
 </a>&nbsp;
 
 ## 💗 GitHub's Statistics
