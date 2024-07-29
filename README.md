@@ -16,7 +16,7 @@
 
 ## ⚡️ About Me
 
-- ⌛️ In search of job ([Resume [RU]](https://drive.google.com/file/d/1RXvJiMyclZVyE-A1IlhkLE_4eDxIXp7Z/view))
+- ⌛️ In search of job
 - 🏫 STEM **[HSE](https://www.hse.ru/en/)** student
 - 🌍 I'm currently learning **English**
 - ☄️Goal: find my place in life
